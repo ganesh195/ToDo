@@ -1,0 +1,50 @@
+body{
+    background-color:#04041c
+}
+.head{
+    width:52%;
+    height:200 px;
+    margin-top: 5%;
+    margin-left: 25%;
+    padding: 5px;
+    color:white;
+    background-color: red;
+}
+
+.wrap{
+    width:50%;
+    height:1000 px;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding: 20px;
+    background-color:red;
+}
+h2{
+    text-align: center;
+}
+#input{
+    border:none;
+    width:80%;
+    height:20px;
+    padding:5px;
+    margin-top:50px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+#btn{
+    padding:5px;
+    text-align: center;
+    width: 15%;
+    height: 30px;
+    border-style: none;
+    margin-left: 5px;
+    background-color:grey;
+}
+
+#btn{
+    cursor: pointer;
+}
+
+.ul{
+    color:white;
+}
